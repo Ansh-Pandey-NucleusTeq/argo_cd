@@ -19,3 +19,6 @@ spec:
     automated:
       selfHeal: true
       prune: true
+
+
+#just for an example.....
